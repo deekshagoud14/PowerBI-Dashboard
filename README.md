@@ -112,6 +112,8 @@ Insights Uncovered:
 
 6. Screenshots / Demos
 
+https://github.com/deekshagoud14/PowerBI-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
+
 
 
 
