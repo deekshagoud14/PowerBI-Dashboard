@@ -3,7 +3,7 @@ Project Title : Insurance Claims & Policy Insights Dashboard
 Tool: Microsoft Power BI  
 
 1. Project Title / Headline
-📊 Prism Insurance Analytics Dashboard
+.📊 Prism Insurance Analytics Dashboard
 A complete, interactive Power BI dashboard built to analyze insurance policies, claims, customer demographics, premium distribution, and operational performance. This visualization helps stakeholders track business KPIs, monitor claim trends, and make data-driven decisions.
 
 
@@ -13,11 +13,11 @@ This dashboard supports business analysts, insurance managers, risk officers, an
 
 3. Tech Stack
 This dashboard was developed using the following tools & technologies:
-📊 Power BI Desktop – Main data visualization and reporting tool
-📂 Power Query – Data transformation, cleaning & preprocessing
-🧠 DAX (Data Analysis Expressions) – Measures, KPIs, calculated fields
-🧱 Data Modeling – Relationships between claims, customers, and policy tables
-📁 File Formats – .pbix (dashboard), .png (report preview)
+.📊 Power BI Desktop – Main data visualization and reporting tool
+.📂 Power Query – Data transformation, cleaning & preprocessing
+.🧠 DAX (Data Analysis Expressions) – Measures, KPIs, calculated fields
+.🧱 Data Modeling – Relationships between claims, customers, and policy tables
+.📁 File Formats – .pbix (dashboard), .png (report preview)
 
 4. Data Source
 Source: Sample Insurance Dataset (policies, claims, customers, premiums)
@@ -44,11 +44,11 @@ Without a dashboard, answering questions like:
 
 🎯 Goal of the Dashboard
 This dashboard aims to:
-✔ Provide a consolidated view of insurance operations
-✔ Help identify trends in claims and premiums
-✔ Support strategic planning using customer and policy insights
-✔ Offer dynamic filtering for claim number, customer ID, and policy details
-✔ Improve decision-making for business users
+. Provide a consolidated view of insurance operations
+. Help identify trends in claims and premiums
+. Support strategic planning using customer and policy insights
+. Offer dynamic filtering for claim number, customer ID, and policy details
+. Improve decision-making for business users
 
 🔎 Walkthrough of Key Visuals
 1. Premium Amount by Policy Type (Bar Chart)
